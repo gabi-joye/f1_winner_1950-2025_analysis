@@ -15,6 +15,7 @@ What is the slowest time ever to win a Grand Prix?
 The first thing I did was clean my data, there are no null values that needed attended, so I moved on to datatypes.
 When I first looked at my column datatimes the time and date columns where strings so I had to change them into numaric datatypes to be able to work with them in the way I wanted.
 For the time column I created a new column with a timedelta datatype, i then turned my  date column from a string to a datetime datatype.
+<img width="173" height="198" alt="Screenshot 2025-11-04 185328" src="https://github.com/user-attachments/assets/27a23295-f4e1-4df5-a343-60c342464470" />
 
 
 
