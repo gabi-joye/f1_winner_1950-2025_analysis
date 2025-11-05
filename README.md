@@ -13,10 +13,16 @@ What is the fastest time ever to win a Grand Prix?
 What is the slowest time ever to win a Grand Prix?
 
 The first thing I did was clean my data, there are no null values that needed attended, so I moved on to datatypes.
-When I first looked at my column datatimes the time and date columns where strings so I had to change them into numaric datatypes to be able to work with thm in the way I wanted.
-To change the time column I first had to use .replace to update the sytax of a few datapoints. After the sytax was the same throughout the column I used pd.to_timedelta to  create a new
-column that I would be able to aggregate with. I then turned my attention to the date column and ust pd.to_datetime to turn my column into a datetime datatype.
+When I first looked at my column datatimes the time and date columns where strings so I had to change them into numaric datatypes to be able to work with them in the way I wanted.
+For the time column I created a new column with a timedelta datatype, i then turned my  date column from a string to a datetime datatype.
 
-Once my data was clean I started to preform my analysis. Firstly I used a .groupby method to find the team and racer with the most wins.
+
+
+. This will give us the average winning race time per decade. *Note that the decade 2020 only includes 5 years rather than 10. I than create a lineplot to help us visualize this data().
+
+Next I want to find out if there are any outliers in our time_delta column. To do this i first have to find the z-scores for my times. I subtract the time_delta from the Time_deltas mean then devide that by the standard deviation of the time_delta column assigning this to a new column called time_z-score. An outlier is any z-score that is less than -3 or grater than 3 so I create a column that will print True if it is
+
+
+
 
 # https://www.kaggle.com/datasets/julianbloise/winners-formula-1-1950-to-2025
