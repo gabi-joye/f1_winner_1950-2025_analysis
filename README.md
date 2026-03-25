@@ -4,7 +4,6 @@
 <img width="173" height="198" alt="Screenshot 2025-11-04 185328" src="https://github.com/user-attachments/assets/27a23295-f4e1-4df5-a343-60c342464470" />
 <img width="238" height="160" alt="Screenshot 2025-11-04 185353" src="https://github.com/user-attachments/assets/f20578f9-b5d2-4375-ae9e-739a160efd70" />
 
-These images show the top 5 teams and racers that have won the most races in the Grand Prix.
 
 <img width="572" height="445" alt="Screenshot 2025-11-04 185436" src="https://github.com/user-attachments/assets/9f0bc58e-f4b7-4aa4-9d9f-27a0917fd639" />
 
@@ -41,16 +40,17 @@ team	Winning constructor
 time	Total race time
 laps	Number of laps
 year	Year of race
-🧹 Data Cleaning
+
+# Data Cleaning
 No missing or null values were found
 Converted:
 date → datetime
 time → timedelta (numeric format)
 Identified outliers in race time, which were considered during analysis
 
-⚠️ Note: This dataset does not account for technological advancements in cars over time, which likely impacts race performance trends.
+Note: This dataset does not account for technological advancements in cars over time, which likely impacts race performance trends.
 
-🎯 Key Questions
+# Key Questions
 Which team has the most Grand Prix wins?
 Which driver has the most wins?
 How have average race times changed over decades?
