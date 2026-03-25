@@ -1,24 +1,3 @@
-
-
-
-<img width="173" height="198" alt="Screenshot 2025-11-04 185328" src="https://github.com/user-attachments/assets/27a23295-f4e1-4df5-a343-60c342464470" />
-<img width="238" height="160" alt="Screenshot 2025-11-04 185353" src="https://github.com/user-attachments/assets/f20578f9-b5d2-4375-ae9e-739a160efd70" />
-
-
-<img width="572" height="445" alt="Screenshot 2025-11-04 185436" src="https://github.com/user-attachments/assets/9f0bc58e-f4b7-4aa4-9d9f-27a0917fd639" />
-
-
-
-<img width="590" height="443" alt="Screenshot 2025-11-04 185422" src="https://github.com/user-attachments/assets/a6e872f0-f7c1-4b16-8407-0ad5809b7f9e" />
-
-
-
-<img width="593" height="446" alt="Screenshot 2025-11-04 185511" src="https://github.com/user-attachments/assets/98bb1649-4aa4-434c-ac3a-8347ade67128" />
-
-
-
-<img width="558" height="451" alt="Screenshot 2025-11-04 185457" src="https://github.com/user-attachments/assets/9a744f22-9b3e-4bc3-b812-499292873649" />
-
 # Formula 1 Grand Prix Winners Analysis (1950–2025)
 
 Exploring performance trends, race times, and winning dominance in F1 history
